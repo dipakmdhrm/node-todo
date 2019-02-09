@@ -1,9 +1,5 @@
-# node-js-playlist
-CSS and asset files for the Net Ninja YouTube nodejs playlist
+# node-todo
+A simple todo app created for practicing node-js.
 
-The final project code can be found in the public/assests folder of this repo
-
-If you have been following the tutorial, code for each and every lesson is added in the Practice folder so you can directly download and check.
-All files have been tested.
-
-If more files for  .\Practice\ should be added. They will be added very soon.
+Source Tutorial: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+Source Repository: https://github.com/iamshaunjp/node-js-playlist
